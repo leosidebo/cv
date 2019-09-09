@@ -3,7 +3,7 @@
 }
 
 .bg-primary {
-    background-color: #975084!important;
+    background-color: #814471!important;
 }
 
 html {
@@ -32,6 +32,7 @@ nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color: rgba(255, 255, 255, 1)!important;
 }  
 
 .navbar li {

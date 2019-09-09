@@ -43,10 +43,6 @@ nav {
     border-radius: 0;
 }
 
-.startPageImg {
-    display: none;
-}
-
 .startPage div {
     height: calc(100vh - 60px);
     padding-bottom: 30px;

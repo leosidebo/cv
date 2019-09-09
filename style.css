@@ -57,11 +57,8 @@ nav {
     animation-duration: 1s;
 }
 
-@include media-breakpoint(lg) {
-    .startPageImg {
-        display: 1;
-    }
-
+.startPageImg {
+    display: none;
 }
 
 .startPageText {
